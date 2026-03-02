@@ -3,10 +3,10 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M5-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
-![Open Issues](https://img.shields.io/github/issues/backm/wa-lib-etl)
-![Open PRs](https://img.shields.io/github/issues-pr/backm/wa-lib-etl)
-![Last Commit](https://img.shields.io/github/last-commit/backm/wa-lib-etl)
-![CI Pipeline Badge](https://github.com/backm/wa-lib-etl/actions/workflows/ci.yml/badge.svg)
+![Open Issues](https://img.shields.io/github/issues/backm/qa-lib-etl)
+![Open PRs](https://img.shields.io/github/issues-pr/backm/qa-lib-etl)
+![Last Commit](https://img.shields.io/github/last-commit/backm/qa-lib-etl)
+![CI Pipeline Badge](https://github.com/backm/qa-lib-etl/actions/workflows/ci.yml/badge.svg)
 
 <mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
 
